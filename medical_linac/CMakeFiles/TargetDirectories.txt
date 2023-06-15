@@ -1,0 +1,8 @@
+/home/newuser/Downloads/geant4-v11.0.3/examples/advanced/medical_linac/CMakeFiles/install/strip.dir
+/home/newuser/Downloads/geant4-v11.0.3/examples/advanced/medical_linac/CMakeFiles/install.dir
+/home/newuser/Downloads/geant4-v11.0.3/examples/advanced/medical_linac/CMakeFiles/list_install_components.dir
+/home/newuser/Downloads/geant4-v11.0.3/examples/advanced/medical_linac/CMakeFiles/rebuild_cache.dir
+/home/newuser/Downloads/geant4-v11.0.3/examples/advanced/medical_linac/CMakeFiles/edit_cache.dir
+/home/newuser/Downloads/geant4-v11.0.3/examples/advanced/medical_linac/CMakeFiles/install/local.dir
+/home/newuser/Downloads/geant4-v11.0.3/examples/advanced/medical_linac/CMakeFiles/medical_linac.dir
+/home/newuser/Downloads/geant4-v11.0.3/examples/advanced/medical_linac/CMakeFiles/ml2.dir
